@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Monish's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I'm excited to learn GitHub
+- It's good to learn Linux and other important CS tools
+- It's only only one credit hour so it's short and sweet
 
 ### Markdown
 
@@ -27,11 +27,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-# Monish's First CS193 Homework
-- I'm excited to learn GitHub
-- It's good to learn Linux and other important CS tools
-- It's only only one credit hour so it's short and sweet
 
 ### Jekyll Themes
 
